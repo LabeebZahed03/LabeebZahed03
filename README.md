@@ -75,25 +75,18 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Snapshot
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LabeebZahed03&show_icons=true&theme=radical" height="170" />
-<img src="https://streak-stats.demolab.com?user=LabeebZahed03&theme=radical&hide_border=false" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LabeebZahed03&layout=compact&theme=radical" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=LabeebZahed03&show_icons=true&count_private=true&hide=contribs,issues&theme=radical" height="165" />
+<img src="https://streak-stats.demolab.com?user=LabeebZahed03&theme=radical&hide_border=false" height="165" />
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=LabeebZahed03&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+<p align="center">
+  <sub>Most of my day-to-day work lives in private/org repos (Myna AI & client systems), so GitHub only shows a slice of what I ship.</sub>
+</p>
 
 ---
 
