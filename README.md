@@ -7,10 +7,7 @@
 
   <p>
     <a href="https://git.io/typing-svg">
-      <img
-        src="https://readme-typing-svg.demolab.com?lines=Multi-agent+%26+Voice+AI+Engineer;Building+self-improving+agents+for+500%2B+hotels;Techstars+’24+Founding+Engineer;NYC-based+AI+Engineer+shipping+prod&center=true&vCenter=true&width=800&height=45&size=22"
-        alt="Typing SVG"
-      />
+      <img src="https://readme-typing-svg.demolab.com?lines=Multi-agent+%26+Voice+AI+Engineer;Building+self-improving+agents+for+500%2B+hotels;Techstars+'24+Founding+Engineer;NYC-based+AI+Engineer+shipping+prod&center=true&vCenter=true&width=800&height=45&size=22" alt="Typing SVG" />
     </a>
   </p>
 
