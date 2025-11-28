@@ -1,20 +1,17 @@
 <!-- HERO SECTION -->
 <div align="center">
   
-  # 👋 Hey, I'm **Labeeb Zahed**
+# 👋 Hey, I'm **Labeeb Zahed**
 
-  ### Founding AI Product Engineer · Multi-Agent & Voice AI @ Myna AI (Techstars '24)
+### Founding AI Product Engineer · Multi-Agent & Voice AI @ Myna AI (Techstars '24)
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com
-  ?lines=Founding+AI+Product+Engineer+%40+Myna+AI;Multi-agent+%26+Voice+AI+for+500%2B+Hotels;Techstars+24+%7C+Cloud-native+%26+Responsible+AI;Turning+chaotic+ideas+into+shipped+products
-  &center=true&vCenter=true&width=900&height=45&size=24)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Founding+AI+Product+Engineer+%40+Myna+AI;Multi-agent+%26+Voice+AI+for+500%2B+Hotels;Techstars+24+%7C+Cloud-native+%26+Responsible+AI;Turning+chaotic+ideas+into+shipped+products&center=true&vCenter=true&width=900&height=45&size=24)](https://git.io/typing-svg)
 
-  <!-- Social / contact badges -->
-  <br/>
+<br/>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/labeebzahed/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://labeebzahed.vercel.app)
-  [![Email](https://img.shields.io/badge/Email-labeebzahed%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:labeebzahed@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/labeebzahed/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://labeebzahed.vercel.app)
+[![Email](https://img.shields.io/badge/Email-labeebzahed%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:labeebzahed@gmail.com)
 
 </div>
 
@@ -28,7 +25,7 @@
 - 🧪 Background: AI Human–Robot Interaction researcher + **ACM ICPC North America Regionals** competitive programmer – I like models that think, agents that coordinate, and systems that don’t fall over.  
 - 🌍 Based in **NYC** · open to **AI/ML, Agentic Systems, Voice AI, and Cloud-native AI platform** roles.  
 
-> TL;DR: I design and ship AI systems that talk, reason, and actually move business metrics.
+> **TL;DR:** I design and ship AI systems that talk, reason, and actually move business metrics.
 
 ---
 
@@ -82,10 +79,9 @@
 
 <div align="center">
 
-  <!-- Stats, Streak, Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=LabeebZahed03&show_icons=true&theme=radical" height="170" />
-  <img src="https://streak-stats.demolab.com?user=LabeebZahed03&theme=radical&hide_border=false" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LabeebZahed03&layout=compact&theme=radical" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=LabeebZahed03&show_icons=true&theme=radical" height="170" />
+<img src="https://streak-stats.demolab.com?user=LabeebZahed03&theme=radical&hide_border=false" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LabeebZahed03&layout=compact&theme=radical" height="170" />
 
 </div>
 
@@ -95,8 +91,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app
-?username=LabeebZahed03&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=LabeebZahed03&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
