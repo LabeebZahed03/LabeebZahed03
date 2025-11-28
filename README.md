@@ -1,17 +1,36 @@
 <!-- HERO SECTION -->
 <div align="center">
   
-# 👋 Hey, I'm **Labeeb Zahed**
+  <h1>👋 Hey, I'm <b>Labeeb Zahed</b></h1>
 
-### Founding AI Product Engineer · Multi-Agent & Voice AI @ Myna AI (Techstars '24)
+  <h3>Founding AI Product Engineer · Multi-Agent &amp; Voice AI @ Myna AI (Techstars '24)</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Founding+AI+Product+Engineer+%40+Myna+AI;Multi-agent+%26+Voice+AI+for+500%2B+Hotels;Techstars+24+%7C+Cloud-native+%26+Responsible+AI;Turning+chaotic+ideas+into+shipped+products&center=true&vCenter=true&width=900&height=45&size=24)](https://git.io/typing-svg)
+  <p>
+    <a href="https://git.io/typing-svg">
+      <img
+        src="https://readme-typing-svg.demolab.com?lines=Multi-agent+%26+Voice+AI+Engineer;Building+self-improving+agents+for+500%2B+hotels;Techstars+’24+Founding+Engineer;NYC-based+AI+Engineer+shipping+prod&center=true&vCenter=true&width=800&height=45&size=22"
+        alt="Typing SVG"
+      />
+    </a>
+  </p>
 
-<br/>
+  <p>
+    <span style="color:#38bdf8; font-weight:600; letter-spacing:0.04em;">
+      Turning chaotic ideas into shipped prod.
+    </span>
+  </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/labeebzahed/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://labeebzahed.vercel.app)
-[![Email](https://img.shields.io/badge/Email-labeebzahed%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:labeebzahed@gmail.com)
+  <p>
+    <a href="https://www.linkedin.com/in/labeebzahed/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://labeebzahed.vercel.app">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="mailto:labeebzahed@gmail.com">
+      <img src="https://img.shields.io/badge/Email-labeebzahed%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 
 </div>
 
@@ -75,30 +94,15 @@
 
 ---
 
-## 📊 GitHub Snapshot
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=LabeebZahed03&show_icons=true&count_private=true&hide=contribs,issues&theme=radical" height="165" />
-<img src="https://streak-stats.demolab.com?user=LabeebZahed03&theme=radical&hide_border=false" height="165" />
-
-</div>
-
-<p align="center">
-  <sub>Most of my day-to-day work lives in private/org repos (Myna AI & client systems), so GitHub only shows a slice of what I ship.</sub>
-</p>
-
----
-
 ## 🔥 Featured Projects
 
-- 🧠 **Agentic Call Receptionist (AWS)** – Real-time call agent with Deepgram Nova 3 STT, Kinesis/Firehose/S3 pipeline, and a self-learning loop for continuous GPT-4o-mini fine-tuning; **p95 latency <2s**, deployed across 5+ hotels (500+ in pipeline) and cut token costs by ~35%.  
+- 🧠 **Agentic Call Receptionist (AWS)** – Real-time call agent with Deepgram Nova 3 STT, Kinesis/Firehose/S3 pipeline, and a self-learning loop for continuous GPT-4o-mini fine-tuning; **p95 latency &lt;2s**, deployed across 5+ hotels (500+ in pipeline) and cut token costs by ~35%.  
 
-- 📈 **Dynamic Revenue-Potential Index** – Scoring framework combining 20+ business variables (foot traffic, competition, reviews, SEO, social presence, etc.) with normalization & auditability, powering **gamified consulting** and campaign prioritization with daily recomputation & A/B tracking.  
+- 📈 **Dynamic Revenue-Potential Index** – Scoring framework combining 20+ business variables (foot traffic, competition, reviews, SEO, social presence, etc.) with normalization &amp; auditability, powering **gamified consulting** and campaign prioritization with daily recomputation &amp; A/B tracking.  
 
 - 🧩 **Multi-Agent Campaign Platform** – LangGraph + FastAPI system with schema-validated planning, RAG-backed tool use, tracing/metrics, and containerized deployment for scalable, observable agents.  
 
-- 🍽 **Chima-rukus** – Restaurant review analysis platform using a hybrid RoBERTa-based sentiment model to extract complaints & praises and turn them into structured action items and responses.
+- 🍽 **Chima-rukus** – Restaurant review analysis platform using a hybrid RoBERTa-based sentiment model to extract complaints &amp; praises and turn them into structured action items and responses.
 
 > 👉 Check the pinned repos below for the full code, diagrams, and write-ups – I try to document the *why*, not just the *what*.
 
